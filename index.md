@@ -6,7 +6,7 @@ Unit Pengembangan dan Penelitian Multimedia-Game Politeknik Negeri Malang (Polin
 
 |  Nama |  Peminatan |
 |---|---|
-| [Dimas Wahyu Wibowo](https://sinta.ristekbrin.go.id/authors/detail?id=6162521&view=overview)</br> (_Lecturer_)  |  Augmented Reality, Virtual Reality, Mixed Reality |
+| [Dimas Wahyu Wibowo](https://sinta.ristekbrin.go.id/authors/detail?id=6162521&view=overview) (_Lecturer_)  |  Augmented Reality, Virtual Reality, Mixed Reality |
 |  [Muh. Shulhan Khairy](https://sinta.ristekbrin.go.id/authors/detail?id=6710314&view=overview) (_Assistant Lecturer_) | Game Development, Software Engineering  |
 |  [Meyti Eka Apriyani](https://sinta.ristekbrin.go.id/authors/detail?id=6665931&view=overview) (_Assistant Lecturer_)  | Steganografi, Multimedia Security, Multimedia Story Design |
 |  [Kadek Suarjuna Batubulan](https://sinta.ristekbrin.go.id/authors/detail?id=6704693&view=overview) (_Assistant Lecturer_) | Multimedia Network, Network Design for Game Development  |
