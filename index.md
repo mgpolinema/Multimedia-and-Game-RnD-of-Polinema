@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Unit Pengembangan dan Penelitian Multimedia-Game Polinema
 
-You can use the [editor on GitHub](https://github.com/mgpolinema/Multimedia-and-Game-RnD-of-Polinema/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Unit Pengembangan dan Penelitian Multimedia-Game Politeknik Negeri Malang (Polinema) merupakan unit yang bergerak di pengembangan, penelitian, serta pelatihan multimedia dan game. Unit ini terbentuk dari kelompok penelitian multimedia dan game di [Jurusan Teknologi Informasi Politeknik Negeri Malang](http://jti.polinema.ac.id/). Lingkup kegiatan meliputi Virtual Reality (VR), Augmented Reality (AR), Mixed Reality, Digital Twin, Audio Programming, Game Development, Multimedia Cerdas, Game berbasis Kecerdasan Buatan. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Anggota
 
-### Markdown
+|  Nama |  Peminatan |
+|---|---|
+| [Dimas Wahyu Wibowo](https://sinta.ristekbrin.go.id/authors/detail?id=6162521&view=overview)</br> (_Lecturer_)  |  Augmented Reality, Virtual Reality, Mixed Reality |
+|  [Muh. Shulhan Khairy](https://sinta.ristekbrin.go.id/authors/detail?id=6710314&view=overview) (_Assistant Lecturer_) | Game Development, Software Engineering  |
+|  [Meyti Eka Apriyani](https://sinta.ristekbrin.go.id/authors/detail?id=6665931&view=overview) (_Assistant Lecturer_)  | Steganografi, Multimedia Security, Multimedia Story Design |
+|  [Kadek Suarjuna Batubulan](https://sinta.ristekbrin.go.id/authors/detail?id=6704693&view=overview) (_Assistant Lecturer_) | Multimedia Network, Network Design for Game Development  |
+|  Bagas Satya Dian Nugraha (_Teaching Staff_) | Visual Asset, Video Producing  |
+|  [Septian Enggar Sukmana](https://sinta.ristekbrin.go.id/authors/detail?id=6587301&view=overview) (_Assistant Lecturer_) | Audio Programming, Digital Twin  |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Proyek
 
-```markdown
-Syntax highlighted code block
+**2021**
+- Pengembang Laboratorium Virtual
 
-# Header 1
-## Header 2
-### Header 3
+## Publikasi
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+## HKI dan Paten
+
+
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgpolinema/Multimedia-and-Game-RnD-of-Polinema/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
